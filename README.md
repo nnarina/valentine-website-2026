@@ -172,36 +172,4 @@ music: {
 6. Once deployed, click "Domain settings"
 7. Choose a custom domain (e.g., `my-valentine-2025.netlify.app`)
 
-## 💡 Tips
-- Test the website before sending it to your Valentine
-- Try all the buttons and interactions
-- Check how it looks on mobile phones
 
-## 🎨 Want Different Colors?
-Use these tools to find beautiful colors:
-- [Coolors](https://coolors.co/) - Color palette generator
-- [ColorHunt](https://colorhunt.co/) - Color palettes
-
-## 🔍 Need More Emojis?
-Find more emojis at:
-- [EmojiKeyboard](https://emojikeyboard.top/fr/)
-- [Emojipedia](https://emojipedia.org/)
-
-## 💖 Credits
-Created with love for Valentine's Day 2026.
-Feel free to use and modify for your special someone!
-
-\- Louis Fontaine -
-
-## ❤️ Support this project
-
-This Valentine website template is completely **free and open-source**.
-
-If it helped you create something special, you can support the project with a small donation:
-
-👉 [Tip](https://buy.stripe.com/bJefZa8Le7fvgDe3ric7u00)
-
-Thank you for keeping it alive!
-
-## 📜 License
-MIT License - Feel free to use this for your Valentine! 
